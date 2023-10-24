@@ -1,0 +1,4 @@
+/home/diego/Descargas/S0-IKER/cmake-build-debug/CMakeFiles/untitled.dir
+/home/diego/Descargas/S0-IKER/cmake-build-debug/CMakeFiles/valgrind.dir
+/home/diego/Descargas/S0-IKER/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/diego/Descargas/S0-IKER/cmake-build-debug/CMakeFiles/rebuild_cache.dir
