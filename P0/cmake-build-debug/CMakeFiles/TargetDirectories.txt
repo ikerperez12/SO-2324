@@ -1,4 +1,3 @@
-/home/diego/Descargas/S0-IKER/cmake-build-debug/CMakeFiles/untitled.dir
-/home/diego/Descargas/S0-IKER/cmake-build-debug/CMakeFiles/valgrind.dir
-/home/diego/Descargas/S0-IKER/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/diego/Descargas/S0-IKER/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ijpg1/Documents/GitHub/SO-2324/P0/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/ijpg1/Documents/GitHub/SO-2324/P0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ijpg1/Documents/GitHub/SO-2324/P0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
